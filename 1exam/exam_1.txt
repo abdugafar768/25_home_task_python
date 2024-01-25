@@ -1,0 +1,14 @@
+Explain the differences between tuples, lists, dictionaries, and sets in Python. Provide a use case for each data structure.
+
+tuples >>>> type : value
+
+
+Explain the purpose of a try-except block in Python. Provide an example of how it can be used to handle exceptions.
+
+x  = int(input())
+
+try:
+    print(x % 2)
+except:
+    print('in raqam ast')
+
